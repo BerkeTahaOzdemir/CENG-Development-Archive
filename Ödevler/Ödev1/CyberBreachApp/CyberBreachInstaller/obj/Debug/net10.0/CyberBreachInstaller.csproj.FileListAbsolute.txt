@@ -1,0 +1,14 @@
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\bin\Debug\net10.0\CyberBreachInstaller.exe
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\bin\Debug\net10.0\CyberBreachInstaller.deps.json
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\bin\Debug\net10.0\CyberBreachInstaller.runtimeconfig.json
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\bin\Debug\net10.0\CyberBreachInstaller.dll
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\bin\Debug\net10.0\CyberBreachInstaller.pdb
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.AssemblyInfoInputs.cache
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.AssemblyInfo.cs
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.dll
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\refint\CyberBreachInstaller.dll
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.pdb
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\CyberBreachInstaller.genruntimeconfig.cache
+C:\Users\Berke\Desktop\CyberBreachApp\CyberBreachInstaller\obj\Debug\net10.0\ref\CyberBreachInstaller.dll
