@@ -1,0 +1,4 @@
+C:/Users/Berke/Desktop/File Carving Tool/build/CMakeFiles/file_carver.dir
+C:/Users/Berke/Desktop/File Carving Tool/build/CMakeFiles/file_carver_gui.dir
+C:/Users/Berke/Desktop/File Carving Tool/build/CMakeFiles/edit_cache.dir
+C:/Users/Berke/Desktop/File Carving Tool/build/CMakeFiles/rebuild_cache.dir
